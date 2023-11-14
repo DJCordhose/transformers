@@ -1,0 +1,23 @@
+# basics
+numpy
+pandas
+matplotlib
+seaborn
+pydot
+jupyter
+
+# machine learning
+scikit-learn
+
+# deep learning
+tensorflow
+lrcurve
+
+# GPT
+tiktoken
+openai
+
+# Transformers
+transformers
+datasets
+sentence-transformers
