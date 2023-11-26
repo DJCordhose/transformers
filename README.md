@@ -17,3 +17,8 @@ Ressources for LLMs and Transformers in general
 1. Create virtual environment: `python3 -m venv .venv`
 1. Activate environment: `source .venv/bin/activate`
 1. Install requirements `pip install -r notebooks/requirements.txt`
+
+## TODO
+### ChatGPT
+- https://platform.openai.com/docs/guides/moderation
+- https://platform.openai.com/docs/guides/fine-tuning
